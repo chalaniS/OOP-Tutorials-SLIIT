@@ -1,7 +1,5 @@
 package T2;
 
-//ex2 - filename - PointApp.java
-
 public class Ex2 {
 
     static class Point3D {
