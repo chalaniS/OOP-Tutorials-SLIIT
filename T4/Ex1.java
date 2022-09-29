@@ -1,3 +1,5 @@
+package T4;
+
 interface IDisplay {
     void print(); // Print in one line
 
@@ -52,7 +54,9 @@ public class Ex1 {
         Student s = new Student();
 
         b.printDetails();
+        b.input();
         s.printDetails();
+        s.input();
 
     }
 
